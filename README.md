@@ -7,6 +7,8 @@ Following serial, only one consumer can order as many ice cream flavours as they
 A customer is recognised by his or her name, address, and serial number. 
 Many customers pay bill amount at counter corner according to serial number after enjoying ice cream, and many bill receipts are received for many customers.
 
+Technology Used : PHP, Oracal, HTML, CSS
+
 ![image](https://user-images.githubusercontent.com/57573621/210289684-3f3627b5-e822-4251-8c2f-bf5adf87ef65.png)
 
 ![image](https://user-images.githubusercontent.com/57573621/210289703-e50d2a6b-b245-4976-af14-a19c5d1158bd.png)
