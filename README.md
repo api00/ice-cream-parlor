@@ -1,4 +1,4 @@
-# ice-cream-parlor
+# krispy kreme 
 Web Based ice cream parlor management system 
 
 Many consumers visit an ice cream parlour management system to locate the shop's address in order to have ice cream.
